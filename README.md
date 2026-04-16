@@ -1,4 +1,4 @@
-🔄 Projeto ETL com IA | Integração, Transformação de Dados e Geração de Insights
+🔄 Projeto ETL com IA | Integração, Transformação de Dados
 
 Projeto desenvolvido durante o bootcamp da DIO com foco na construção de um pipeline ETL (Extract, Transform, Load) integrado com Inteligência Artificial. A solução realiza a coleta, tratamento e organização dos dados, além de utilizar a API da OpenAI (GPT) para gerar frases de marketing personalizadas para cada usuário.
 
