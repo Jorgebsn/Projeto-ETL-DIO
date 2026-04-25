@@ -4,12 +4,12 @@ Projeto desenvolvido durante o bootcamp da DIO com foco na construção de um pi
 
 O projeto demonstra, na prática, como unir engenharia de dados com IA generativa para agregar valor ao negócio, automatizando a criação de conteúdo e potencializando estratégias de marketing orientadas por dados.
 
-Extração e tratamento de dados (ETL)
+-Extração e tratamento de dados (ETL)
  
-Limpeza e organização de bases de dados
+-Limpeza e organização de bases de dados
 
-Integração com API da OpenAI (GPT)
+-Integração com API da OpenAI (GPT)
 
-Geração automatizada de conteúdo personalizado
+-Geração automatizada de conteúdo personalizado
 
-Aplicação de dados para estratégias de marketing
+-Aplicação de dados para estratégias de marketing
